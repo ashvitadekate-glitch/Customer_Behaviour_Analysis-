@@ -100,6 +100,7 @@ Developed an interactive dashboard to monitor:
 
 ---
 
+<img width="1265" height="687" alt="dashboard img" src="https://github.com/user-attachments/assets/33dc6507-3279-4681-8564-36fa4dd1072d" />
 
 
 ---
